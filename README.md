@@ -1,2 +1,2 @@
 # Dynamic-NFT
-Using Chainlink keepers to create Dynamic NFTs
+Using Chainlink Automation (prev. known as Chainlink keepers) to create Dynamic NFTs
